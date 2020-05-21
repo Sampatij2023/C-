@@ -15,4 +15,6 @@ int main(){
 
 		}
 	}
+	cout<<"No of Vowels "<<vowelCount<<endl;
+	cout<<"No of consonents "<<consonentCount<<endl;
 }
