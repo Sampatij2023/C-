@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-	char A[]="Deepak";
+	char A[]="DEEPAK";
 	int i=0;
 	for (i;A[i]!='\0';i++){
 		A[i]=A[i]+32;
